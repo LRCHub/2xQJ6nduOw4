@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "A Little Pain (From \"Nana\")",
+  "base_artist": "AmaLee",
+  "createdAt": "2026-03-23T17:53:23.430010Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Little Pain (From \"Nana\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/01_A_Little_Pain_(From__Nana_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Little Pain (From \"Nana\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/02_A_Little_Pain_(From__Nana_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Little Pain (From “Nana”)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/03_A_Little_Pain_(From_“Nana”)_AmaLee.lrc"
+    }
+  ]
+}
